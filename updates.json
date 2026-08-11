@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "stayaun@aun.local": {
+      "updates": [
+        {
+          "version": "0.4.4",
+          "update_link": "https://raw.githubusercontent.com/aussadawutph/stayaun-extension-updates/main/stayaun-0.4.4.xpi",
+          "update_hash": "sha256:15113da96e1c16d8ee34cf0aae5c5b51de77eff41089ebe2c45ef3b448c4efbb",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "115.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
